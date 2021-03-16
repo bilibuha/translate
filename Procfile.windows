@@ -1,1 +1,1 @@
-web: python import telebot.py
+web: python telebot.py
